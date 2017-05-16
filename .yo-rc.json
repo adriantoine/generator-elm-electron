@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Adrien Antoine",
+      "authorEmail": "adriantoine@gmail.com",
+      "authorUrl": "adriantoine.com"
+    }
+  }
+}
