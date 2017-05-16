@@ -1,6 +1,6 @@
 {
   "name": "generator-elm-electron",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate an Electron application using Elm as a front end",
   "homepage": "http://adriantoine.com",
   "author": {
