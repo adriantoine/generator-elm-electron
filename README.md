@@ -23,10 +23,6 @@ yo elm-electron
  * Yeoman can be too opinionated at times but is easily convinced not to be.
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
-## License
-
-Apache-2.0 © [Adrien Antoine](adriantoine.com)
-
 
 [npm-image]: https://badge.fury.io/js/generator-elm-electron.svg
 [npm-url]: https://npmjs.org/package/generator-elm-electron
